@@ -1,0 +1,11 @@
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\bin\Debug\netcoreapp2.1\PagarDeudas.deps.json
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\bin\Debug\netcoreapp2.1\PagarDeudas.runtimeconfig.json
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\bin\Debug\netcoreapp2.1\PagarDeudas.runtimeconfig.dev.json
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\bin\Debug\netcoreapp2.1\PagarDeudas.dll
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\bin\Debug\netcoreapp2.1\PagarDeudas.pdb
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.csprojAssemblyReference.cache
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.csproj.CoreCompileInputs.cache
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.AssemblyInfoInputs.cache
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.AssemblyInfo.cs
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.dll
+C:\Users\GLORIA SUS\source\repos\PagarDeudas\PagarDeudas\obj\Debug\netcoreapp2.1\PagarDeudas.pdb
